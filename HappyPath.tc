@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HappyPath</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b5c2358-1453-4073-bd97-a8d7fa0cd06f</testCaseGuid>
+   <variable>
+      <defaultValue>'newCompanyHappyPath0308.01'</defaultValue>
+      <description></description>
+      <id>077eb733-4c48-4d94-b177-95688426a726</id>
+      <masked>false</masked>
+      <name>companyId</name>
+   </variable>
+   <variable>
+      <defaultValue>'newAgreementHappyPath0308.01'</defaultValue>
+      <description></description>
+      <id>f82b7ce7-3cf8-43ff-ade8-0718bcef469c</id>
+      <masked>false</masked>
+      <name>agreementName</name>
+   </variable>
+</TestCaseEntity>
